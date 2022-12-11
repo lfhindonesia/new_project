@@ -13,8 +13,14 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
-        </h1>
+          Welcome<a href="https://nextjs.org"> To The Jungle Bang Yuds</a>
+	<ul>
+		<li> -Routing Ngingx </li>
+		<li> -Setup letsencrypt </li>
+		<li> -Routing domain ke vps</li>
+	</ul>        
+
+</h1>
 
         <p className={styles.description}>
           Get started by editing{' '}
